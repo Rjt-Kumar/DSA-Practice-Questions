@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd1ee8a-63fd-4d70-b154-1f0f188de94a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/CombinationSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/GenetrateParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/KnightsTour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/LetterCombinationOfPhoneNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/NKnights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/Nqueens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/PermutationDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/TargetSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Bactrackinh/WordSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Easy/GFG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Recursion/Sudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
   </component>
-  <component name="RunManager" selected="Application.Move_NegativeElements">
+  <component name="RunManager" selected="Application.Rotate_ArrayByK">
     <configuration name="KthSmallest_LargesElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KthSmallest_LargesElement" />
       <module name="Arrays" />
@@ -70,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+    <configuration name="Rotate_ArrayByK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rotate_ArrayByK" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rotate_ArrayByK" />
         <item itemvalue="Application.Move_NegativeElements" />
         <item itemvalue="Application.SortingArrayOf_Zeros_Ones" />
         <item itemvalue="Application.KthSmallest_LargesElement" />
         <item itemvalue="Application.MaxAndMinElement" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
