@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd1ee8a-63fd-4d70-b154-1f0f188de94a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/FIndTheLargestSumOfContigousArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/MergeTwoSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/Move_zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Move_zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Move_zero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Move_zero.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BEiqdFu1qo4gHP3M2LnBcuUMsu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,37 +50,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
   </component>
-  <component name="RunManager" selected="Application.Rotate_ArrayByK">
-    <configuration name="KthSmallest_LargesElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KthSmallest_LargesElement" />
+  <component name="RunManager" selected="Application.SubarrayWithSumZero">
+    <configuration name="BestTimeToBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSell" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxAndMinElement" />
+    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonElements" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Move_NegativeElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Move_NegativeElements" />
+    <configuration name="FindAllPairsOfIntegerWhoseSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllPairsOfIntegerWhoseSum" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rotate_ArrayByK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rotate_ArrayByK" />
+    <configuration name="RearrangeTheArrayAsPosNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RearrangeTheArrayAsPosNeg" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingArrayOf_Zeros_Ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingArrayOf_Zeros_Ones" />
+    <configuration name="SubarrayWithSumZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubarrayWithSumZero" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Rotate_ArrayByK" />
-        <item itemvalue="Application.Move_NegativeElements" />
-        <item itemvalue="Application.SortingArrayOf_Zeros_Ones" />
-        <item itemvalue="Application.KthSmallest_LargesElement" />
-        <item itemvalue="Application.MaxAndMinElement" />
+        <item itemvalue="Application.SubarrayWithSumZero" />
+        <item itemvalue="Application.RearrangeTheArrayAsPosNeg" />
+        <item itemvalue="Application.CommonElements" />
+        <item itemvalue="Application.FindAllPairsOfIntegerWhoseSum" />
+        <item itemvalue="Application.BestTimeToBuyAndSell" />
       </list>
     </recent_temporary>
   </component>

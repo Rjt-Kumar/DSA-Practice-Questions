@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Move_zero {
 
     public static void main(String[] args) {
@@ -5,9 +7,20 @@ public class Move_zero {
 
         int snowBall = 0;
 
-        for(int i = 0 ;i < arr.length; i++){
+        for(int i = 0 ;i < arr.length; i++) {
 
-            if( arr[i] == 0){snowBall++;}
+            if (arr[i] == 0) {
+                snowBall++;
+            } else if (snowBall > 0) {
+                swap(arr, i, i - snowBall);
+            }
         }
+        System.out.println(Arrays.toString(arr));
+    }
+
+    public static void swap(int[] arr,int first,int second){
+        int temp = arr[first];
+        arr[first] = arr[second];
+        arr[second] = temp;
     }
 }
