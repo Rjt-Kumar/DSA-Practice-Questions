@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd1ee8a-63fd-4d70-b154-1f0f188de94a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/FIndTheLargestSumOfContigousArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MergeTwoSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/Move_zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Move_zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arrays/Move_zero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arrays/Move_zero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/BestTimeToBuyAndSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/BestTimeToBuyAndSell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/CommonElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/CountInversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/CountInversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/FIndTheLargestSumOfContigousArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/FIndTheLargestSumOfContigousArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/FindAllPairsOfIntegerWhoseSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/FindAllPairsOfIntegerWhoseSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/FindDuplicateinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/FindDuplicateinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/KadenAlgorithOrMaximumSumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/KadenAlgorithOrMaximumSumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/KthSmallest_LargesElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/KthSmallest_LargesElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MaxAndMinElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/MaxAndMinElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/MergeTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/MinimiseMaximumDIfferenceBTWHeights.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/MinimiseMaximumDIfferenceBTWHeights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/Move_NegativeElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/Move_NegativeElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/Move_zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/Move_zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/RearrangeTheArrayAsPosNeg.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/RearrangeTheArrayAsPosNeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/Rotate_ArrayByK.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/Rotate_ArrayByK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/SortingArrayOf_Zeros_Ones.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Easy/SortingArrayOf_Zeros_Ones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/SubarrayWithSumZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/Medium/SubarrayWithSumZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,38 +66,50 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
   </component>
-  <component name="RunManager" selected="Application.SubarrayWithSumZero">
-    <configuration name="BestTimeToBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimeToBuyAndSell" />
+  <component name="RunManager" selected="Application.TripletSumInArray">
+    <configuration name="Buy_Sell_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Buy_Sell_III" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonElements" />
+    <configuration name="FindArraySubsetOfAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.FindArraySubsetOfAnother" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllPairsOfIntegerWhoseSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAllPairsOfIntegerWhoseSum" />
+    <configuration name="MaximumProductArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.MaximumProductArray" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RearrangeTheArrayAsPosNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RearrangeTheArrayAsPosNeg" />
+    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.TrappingRainWater" />
       <module name="Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarrayWithSumZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubarrayWithSumZero" />
+    <configuration name="TripletSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.TripletSumInArray" />
       <module name="Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubarrayWithSumZero" />
-        <item itemvalue="Application.RearrangeTheArrayAsPosNeg" />
-        <item itemvalue="Application.CommonElements" />
-        <item itemvalue="Application.FindAllPairsOfIntegerWhoseSum" />
-        <item itemvalue="Application.BestTimeToBuyAndSell" />
+        <item itemvalue="Application.TripletSumInArray" />
+        <item itemvalue="Application.TrappingRainWater" />
+        <item itemvalue="Application.FindArraySubsetOfAnother" />
+        <item itemvalue="Application.Buy_Sell_III" />
+        <item itemvalue="Application.MaximumProductArray" />
       </list>
     </recent_temporary>
   </component>
