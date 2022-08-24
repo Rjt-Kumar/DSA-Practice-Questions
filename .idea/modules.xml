@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2DArray/2DArray.iml" filepath="$PROJECT_DIR$/2DArray/2DArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/2DArrays.iml" filepath="$PROJECT_DIR$/Arrays/2DArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Questions.iml" filepath="$PROJECT_DIR$/Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
