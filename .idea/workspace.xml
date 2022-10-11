@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd1ee8a-63fd-4d70-b154-1f0f188de94a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackS/src/stack/redundantBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackS/src/stack/redundantBrackets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
   </component>
-  <component name="RunManager" selected="Application.reversAstring">
+  <component name="RunManager" selected="Application.redundantBrackets">
     <configuration name="CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.CommonElements" />
       <module name="2DArray" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TripletSumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medium.TripletSumInArray" />
-      <module name="Arrays" />
+    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.factorial" />
+      <module name="StackS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Medium.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaveForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.WaveForm" />
-      <module name="2DArray" />
+    <configuration name="redundantBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.redundantBrackets" />
+      <module name="StackS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.redundantBrackets" />
+        <item itemvalue="Application.factorial" />
         <item itemvalue="Application.reversAstring" />
         <item itemvalue="Application.CommonElements" />
         <item itemvalue="Application.Median_RowWise_Sorted" />
-        <item itemvalue="Application.WaveForm" />
-        <item itemvalue="Application.TripletSumInArray" />
       </list>
     </recent_temporary>
   </component>
