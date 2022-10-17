@@ -33,8 +33,8 @@ public class CustomStack {
 
     }
 
-    public int pop() throws Exception{
-        if( isEmpty() ){
+    public int pop() throws Exception {
+        if (isEmpty()) {
             throw new Exception("Stack is empty cannot pop");
         }
 
