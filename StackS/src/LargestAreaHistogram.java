@@ -63,8 +63,8 @@ public class LargestAreaHistogram {
 
         for(int i = 0; i < n ; i++){
 
-            if( maxArea < ( arr[i]*( right[i]-left[i]+1 ) )){
-                maxArea = arr[i]*( right[i]-left[i]+1 );
+            if( maxArea < ( arr[i]*( right[i]-left[i]-1 ) )){
+                maxArea = arr[i]*( right[i]-left[i]-1 );
             }
         }
         System.out.println(maxArea);
