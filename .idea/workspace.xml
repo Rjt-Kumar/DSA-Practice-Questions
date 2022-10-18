@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8bd1ee8a-63fd-4d70-b154-1f0f188de94a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StackS/src/stack/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackS/src/stack/CustomStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +46,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
   </component>
-  <component name="RunManager" selected="Application.Online_Stock_Span">
-    <configuration name="CAR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.CAR" />
+  <component name="RunManager" selected="Application.LargestAreaHistogram">
+    <configuration name="LargestAreaHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestAreaHistogram" />
       <module name="StackS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestAreaHistogram" />
         <item itemvalue="Application.Online_Stock_Span" />
         <item itemvalue="Application.NGE_Left" />
         <item itemvalue="Application.NGE_Right" />
         <item itemvalue="Application.infixToPostFix" />
-        <item itemvalue="Application.CAR" />
       </list>
     </recent_temporary>
   </component>
